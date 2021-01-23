@@ -1,2 +1,2 @@
 # MyFirstRepo
-Ropository fro Test and Learn Git
+Repository for Test and Learn Git
